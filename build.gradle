@@ -11,7 +11,7 @@ apply plugin: 'java'
 apply plugin: 'application'
 apply plugin: 'org.springframework.boot'
 
-mainClassName = 'hello.Application'
+mainClassName = 'config.Application'
 
 jar {
     baseName = 'gs-securing-web'
